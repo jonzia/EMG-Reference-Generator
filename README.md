@@ -22,4 +22,4 @@ The latest release may be downloaded [here](https://github.com/jonzia/EMG-Refere
 ## Disclaimers
 - This software is not intended for use in the diagnosis or management of medical conditions.
 - Reference values for patients under four years of age are not included.
-- The reference values in this software may be found in `Test/reference.png`
+- The reference values in this software may be found in `Test/reference.jpg`
