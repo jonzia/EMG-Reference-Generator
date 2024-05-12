@@ -12,14 +12,16 @@ All content aside from these tables is ignored by the program, allowing for othe
 The latest release may be downloaded [here](https://github.com/jonzia/EMG-Reference-Generator/releases). Please note that the current version supports Mac OS only. To install, download the `EMGRG.dmg` file and save the application.
 
 ## How to Use
-1. Specify the source file by pressing "Select File".
-2. Enter the patient's age.
-3. Enter the patient's height to the nearest inch.
-4. Run the program by selectingn "Generate".
-5. When complete, the generated report will be available as `emgref.docx` in the same directory as the source file.
-6. Select "Exit" to close the program, or repeat the above steps to generate a new report.
+1. If the report is not available in MS Word, copy the procedure note from EPIC to a local Word document.
+2. Specify the source file by pressing "Select File".
+3. Enter the patient's age.
+4. Enter the patient's height to the nearest inch.
+5. Run the program by selectingn "Generate".
+6. When complete, the generated report will be available as `emgref.docx` in the same directory as the source file.
+7. Select "Exit" to close the program, or repeat the above steps to generate a new report.
 
 ## Disclaimers
 - This software is not intended for use in the diagnosis or management of medical conditions.
 - Reference values for patients under four years of age are not included.
 - The reference values in this software may be found in `Test/reference.jpg`
+- This program does not establish a connection with the internet; therefore to update please download the most recent release.
